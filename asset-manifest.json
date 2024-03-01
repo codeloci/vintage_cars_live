@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/vintage_cars_live/static/css/main.797c0afb.css",
+    "main.js": "/vintage_cars_live/static/js/main.06fbc49d.js",
+    "static/media/mustang.jpg": "/vintage_cars_live/static/media/mustang.50c7eded11c4ba5f17a3.jpg",
+    "static/media/header1.jpg": "/vintage_cars_live/static/media/header1.f3ab6cd65f59dd51debf.jpg",
+    "static/media/m4_cabrio.jpg": "/vintage_cars_live/static/media/m4_cabrio.fba41f0b5712b432d7a6.jpg",
+    "static/media/header3.jpg": "/vintage_cars_live/static/media/header3.9e03a16c905b6a3a18a1.jpg",
+    "static/media/header4.jpg": "/vintage_cars_live/static/media/header4.5fdc65691b9d818703a1.jpg",
+    "static/media/bmw.jpg": "/vintage_cars_live/static/media/bmw.b03f3499c9ac68fe852c.jpg",
+    "static/media/news1.jpg": "/vintage_cars_live/static/media/news1.aab0b332ea498897b6fb.jpg",
+    "static/media/porche.jpg": "/vintage_cars_live/static/media/porche.077fb7d49c1f31dd5c33.jpg",
+    "static/media/news2.jpg": "/vintage_cars_live/static/media/news2.1435e9f192baa3b28351.jpg",
+    "static/media/tesla.jpg": "/vintage_cars_live/static/media/tesla.982bf5eaeb6273684496.jpg",
+    "static/media/camaro.jpg": "/vintage_cars_live/static/media/camaro.a5d314e240dc3ebabc22.jpg",
+    "static/media/honda.jpg": "/vintage_cars_live/static/media/honda.03f271dd56b99e275b4b.jpg",
+    "static/media/header2.jpg": "/vintage_cars_live/static/media/header2.0940a04844b93b4d8fa8.jpg",
+    "static/media/corola.jpg": "/vintage_cars_live/static/media/corola.87b15b48286139ba659d.jpg",
+    "static/media/mercedes.jpg": "/vintage_cars_live/static/media/mercedes.04aefc26f40c8e180225.jpg",
+    "static/media/footer_bg.jpg": "/vintage_cars_live/static/media/footer_bg.8c4d36fc67b156855d1d.jpg",
+    "static/media/aventador.jpg": "/vintage_cars_live/static/media/aventador.2829612add14f2b08cf3.jpg",
+    "static/media/audi.jpg": "/vintage_cars_live/static/media/audi.af87306e0383a855bc6b.jpg",
+    "static/media/ferari.jpg": "/vintage_cars_live/static/media/ferari.0ce73ff32a99d5130401.jpg",
+    "static/media/jaguar.jpg": "/vintage_cars_live/static/media/jaguar.a48188109e465e74b2ef.jpg",
+    "static/media/lexus.jpg": "/vintage_cars_live/static/media/lexus.d872650eb8b3285fd2ac.jpg",
+    "static/media/lambo.png": "/vintage_cars_live/static/media/lambo.5ed1ef486c9d33a3bfbe.png",
+    "static/media/icon.png": "/vintage_cars_live/static/media/icon.26ea99a743d09de2f8d0.png",
+    "static/media/headerCar.png": "/vintage_cars_live/static/media/headerCar.c25d68cc0fc06a1bce9a.png",
+    "static/media/marshena.ttf": "/vintage_cars_live/static/media/marshena.daf1044382c80893e81e.ttf",
+    "static/media/honda.webp": "/vintage_cars_live/static/media/honda.d238ce3c8050f93ed4d8.webp",
+    "static/media/porche.webp": "/vintage_cars_live/static/media/porche.77e93d11afa858073300.webp",
+    "static/media/bmw.webp": "/vintage_cars_live/static/media/bmw.4414aba106176c6e4f69.webp",
+    "static/media/ferari.webp": "/vintage_cars_live/static/media/ferari.dee5e23f43dca14732c2.webp",
+    "static/media/tesla.webp": "/vintage_cars_live/static/media/tesla.b758c5a55f45058945e2.webp",
+    "index.html": "/vintage_cars_live/index.html",
+    "main.797c0afb.css.map": "/vintage_cars_live/static/css/main.797c0afb.css.map",
+    "main.06fbc49d.js.map": "/vintage_cars_live/static/js/main.06fbc49d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797c0afb.css",
+    "static/js/main.06fbc49d.js"
+  ]
+}
